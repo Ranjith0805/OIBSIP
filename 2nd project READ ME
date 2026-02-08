@@ -1,0 +1,50 @@
+# 🔐 Advanced Password Generator (Oasis Infobyte Internship)
+
+## 📌 Project Overview  
+This project is an **Advanced Password Generator** developed using Python as part of the **Oasis Infobyte Internship**. The main objective of this project is to help users generate strong and secure passwords based on their preferences such as length and character types.
+
+---
+
+## 🎯 Objective  
+- Generate secure random passwords.  
+- Allow users to select password length.  
+- Provide options for uppercase, lowercase, numbers, and special characters.  
+- Validate user input for better reliability.  
+- Improve security by ensuring randomness.
+
+---
+
+## 🛠 Technologies Used  
+- Python  
+- Random Module  
+- String Module  
+
+---
+
+## ⚙ How It Works  
+1. The user enters the desired password length.  
+2. The user selects character types (uppercase, lowercase, digits, special characters).  
+3. The program validates the inputs.  
+4. It builds a character pool based on user choices.  
+5. At least one character from each selected category is included.  
+6. The remaining characters are randomly generated.  
+7. The password is shuffled and displayed.
+
+---
+
+## ✨ Features  
+- Interactive user input system.  
+- Input validation for safety.  
+- Multiple character type options.  
+- Secure random password generation.  
+- Simple and user-friendly interface.
+
+---
+
+## ▶ How to Run  
+1. Clone the repository.  
+2. Open the project folder.  
+3. Run the file using:  
+
+```bash
+python password_generator.py
