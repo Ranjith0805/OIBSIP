@@ -3,7 +3,6 @@
 ## 📌 Project Overview  
 This project is an **Advanced Password Generator** developed using Python as part of the **Oasis Infobyte Internship**. The main objective of this project is to help users generate strong and secure passwords based on their preferences such as length and character types.
 
----
 
 ## 🎯 Objective  
 - Generate secure random passwords.  
@@ -12,14 +11,10 @@ This project is an **Advanced Password Generator** developed using Python as par
 - Validate user input for better reliability.  
 - Improve security by ensuring randomness.
 
----
-
 ## 🛠 Technologies Used  
 - Python  
 - Random Module  
 - String Module  
-
----
 
 ## ⚙ How It Works  
 1. The user enters the desired password length.  
@@ -30,16 +25,12 @@ This project is an **Advanced Password Generator** developed using Python as par
 6. The remaining characters are randomly generated.  
 7. The password is shuffled and displayed.
 
----
-
 ## ✨ Features  
 - Interactive user input system.  
 - Input validation for safety.  
 - Multiple character type options.  
 - Secure random password generation.  
 - Simple and user-friendly interface.
-
----
 
 ## ▶ How to Run  
 1. Clone the repository.  
