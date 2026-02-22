@@ -1,0 +1,40 @@
+🌦️ Weather App
+A simple and responsive Weather Application built using HTML, CSS, and JavaScript.
+This application fetches real-time weather data from a weather API and displays the current weather details of any searched city.
+
+📌 Features
+Search weather by city name
+Displays current temperature
+Shows weather condition (Cloudy, Sunny, Rainy, etc.)
+Displays humidity and wind speed
+Responsive design for mobile and desktop
+
+🛠️ Technologies Used
+HTML
+CSS
+JavaScript
+Weather API
+
+🚀 How to Use
+Download or clone the repository
+Open the project folder
+Open index.html in your browser
+Enter a city name and get the weather details
+
+🔑 API Configuration
+To use this project, you need a weather API key.
+Generate an API key from a weather API provider and replace it inside the JavaScript file.
+
+🎯 Purpose of the Project
+This project was developed to practice:
+API integration
+Fetching real-time data using JavaScript
+DOM manipulation
+Responsive web design
+
+📌 Future Improvements
+Add 5-day weather forecast
+Add weather icons
+Add dark mode
+👨‍💻 Author
+Ranjith Kumar
